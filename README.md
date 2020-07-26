@@ -12,6 +12,29 @@ As the following pictures show, Theater is also the most successful category wit
 ![Parent_Category_Outcomes_Theater](https://user-images.githubusercontent.com/68669675/88483433-84665b80-cf2d-11ea-85d7-00be4bf239fc.png)
 
 
-## Subcategory Outcomes for Theater
-Out of the 912 Kickstarter capaigns for theater projects in the U.S., 612 were for plays and over 61% of those campaigns for plays were successful.
+## Subcategory Outcomes
+
+Out of all the Kickstarter campaigns in the U.S., 671 were for plays and over 61% of those campaigns were successful. This makes the plays as the most successful category for Kickstarter campaigns in the U.S.
+
+![Subcategory_Stats_US](https://user-images.githubusercontent.com/68669675/88483646-cd6adf80-cf2e-11ea-89fe-8f6cf3e62d57.png)
+
+![Subcategory_Stats_US_Plays](https://user-images.githubusercontent.com/68669675/88483654-d9ef3800-cf2e-11ea-9a63-bb24b711deaf.png)
+
+
+## Outcome Based On Launch Date
+
+The data shows that May and June are the best months to launch a Kickstarter campaign for a Theater project. The succesful campaign trend shows a pick in May and slowly decrease and bottoms in December. We would advise to launch the campaign in May or June to have the best results.
+
+![Outcomes_Based_On_Launch_Date_Theater](https://user-images.githubusercontent.com/68669675/88483662-ed020800-cf2e-11ea-92eb-64e6761ce044.png)
+
+
+## Descriptive Statistics
+
+The data shows that failed Kickstarter campaigns have much higher fundraising goals than the successful Kickstarter campaigns.
+The average successful goal is about $5,000, so the client would need to stay in this range to achieve a successful campaign.
+Mean and Median values of the pledged amounts of the failed Kickstarter campaigns are much lower than those for the successful campaigns so the high fundraising goal is not the only reason why those campaigns failed. Other factors need to be taken into account.
+
+
+## Great Britain Musical Analysis
+
 
