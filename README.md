@@ -37,4 +37,6 @@ Mean and Median values of the pledged amounts of the failed Kickstarter campaign
 
 ## Great Britain Musical Analysis
 
+![GB_Plays_Distribution](https://user-images.githubusercontent.com/68669675/88484475-386ae500-cf34-11ea-84dc-47059bc7c06b.png)
 
+From these plots, we can see that the mean campaign goal is around £4,000. This is outside of the range of outliers for amount pledged, so the client should probably try to get her play produced for less than £4,000. Half of the campaign goals are less than £2,000, which is just over the 3rd quartile for amounts pledged, so we would not advise a campaign goal higher than £2,000.
