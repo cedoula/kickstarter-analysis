@@ -1,8 +1,13 @@
 # An Analysis of Kickstarter Campaigns.
 
-Performing analysis on Kickstarter data to uncover trends.
+## Overview of Project
 
-## Parent Categrory Outcomes
+### Purpose
+The purpose of this project is to perform analysis with Excel on Kickstarter data to uncover trends and help our client to adjust its future campaign projects for the best results.
+
+## Analysis and Challenges
+
+### Analysis of Parent Categrory Outcomes
 
 Since the client is planning a campaign for a play in the U.S. we have taken a look at the Kikckstarter campaigns done in the U.S. Out of the 3038 campaigns done 912 were for the theater category which make it the highest in therm of campaign numbers.
 As the following pictures show, Theater is also the most successful category with 525 successful campaigns lead.
@@ -12,7 +17,7 @@ As the following pictures show, Theater is also the most successful category wit
 ![Parent_Category_Outcomes_Theater](https://user-images.githubusercontent.com/68669675/88483433-84665b80-cf2d-11ea-85d7-00be4bf239fc.png)
 
 
-## Subcategory Outcomes
+### Analysis of Subcategory Outcomes
 
 Out of all the Kickstarter campaigns in the U.S., 671 were for plays and over 61% of those campaigns were successful. This makes the plays as the most successful category for Kickstarter campaigns in the U.S.
 
@@ -21,9 +26,11 @@ Out of all the Kickstarter campaigns in the U.S., 671 were for plays and over 61
 ![Subcategory_Stats_US_Plays](https://user-images.githubusercontent.com/68669675/88483654-d9ef3800-cf2e-11ea-9a63-bb24b711deaf.png)
 
 
-## Outcome Based On Launch Date
+### Analysis of Outcomes Based On Launch Date
 
-The data shows that May and June are the best months to launch a Kickstarter campaign for a Theater project. The succesful campaign trend shows a pick in May and slowly decrease and bottoms in December. We would advise to launch the campaign in May or June to have the best results.
+For this analysis, we are focusing on the campaigns for the category "Theater".
+We have produced the PivotChart named "Theater Outcomes Based on Launch Date" from the Kickstarter data. The chart is representing the number of successful, failed and canceled campaigns according the month when the campaign is launched. The chart is filtered with the parent category "theater" and we are also able to filter by year if we want to focus on a particular period of time.
+We obtain the chart below considering all years for the analysis.
 
 ![Outcomes_Based_On_Launch_Date_Theater](https://user-images.githubusercontent.com/68669675/88483662-ed020800-cf2e-11ea-92eb-64e6761ce044.png)
 
