@@ -29,7 +29,7 @@ Out of all the Kickstarter campaigns in the U.S., 671 were for plays and over 61
 ### Analysis of Outcomes Based On Launch Date
 
 For this analysis, we are focusing on the campaigns for the category "theater".\
-We have produced the PivotChart named "Theater Outcomes Based on Launch Date" from the Kickstarter data. The chart is representing the number of successful, failed and canceled campaigns according the month when the campaign is launched. The chart is filtered with the parent category "theater" and we are also able to filter by year if we want to focus on a particular period of time.\
+We have produced the PivotChart named "Theater Outcomes Based on Launch Date" from the Kickstarter data. The chart is representing the number of successful, failed and canceled campaigns according the month when the campaign is launched. It is filtered with the parent category "theater" and we are also able to filter by year if we want to focus on a particular period of time.\
 We obtain the chart below considering all years for the analysis.
 
 ![Theater_vs_LaunchDate_Table](https://user-images.githubusercontent.com/68669675/88729866-70238980-d0fa-11ea-8b3a-fdbffc434327.png)![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/68669675/88729838-6437c780-d0fa-11ea-9c44-39ab2032d6e0.png)
