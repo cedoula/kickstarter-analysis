@@ -57,7 +57,8 @@ From these plots, we can see that the mean campaign goal is around £4,000. This
 ### Challenges and Difficulties Encountered
 
 We did not encounter any particular challenge during the Outcomes vs Launch Date analysis but difficulties could be faced when grouping the launch dates on a monthly basis in the PivotTable.\
-The following link gives a good explanation of grouping and ungrouping data in a PivotTable: [Excel documentation](https://support.microsoft.com/en-us/office/group-or-ungroup-data-in-a-pivottable-c9d1ddd0-6580-47d1-82bc-c84a5a340725?ui=en-us&rs=en-us&ad=us). 
+The following link gives a good explanation of grouping and ungrouping data in a PivotTable: [Excel documentation](https://support.microsoft.com/en-us/office/group-or-ungroup-data-in-a-pivottable-c9d1ddd0-6580-47d1-82bc-c84a5a340725?ui=en-us&rs=en-us&ad=us). \
+Also the Excel sheet was requested to be named "Theater Outcomes Based on Launch Data" but the Excel sheet naming format only accepts 31 characters, so we named our worksheet "Theater Outcomes vs Launch Data" instead.
 
 When using the COUNTIFS() function, one needs to respect the inputs for that function. I tried to include 2 conditions in 1 criteria using the logical sign "&" as ">=1000 & <4999" but the function only accepts 1 condition per criteria so I had to break the condition into 2 criteria: ">=1000" and "<4999".\
 Please find useful information about COUNTIFS() through the following link [Excel documentation](https://support.microsoft.com/en-us/office/countifs-function-dda3dc6e-f74e-4aee-88bc-aa8c2a866842?ui=en-us&rs=en-us&ad=us).
