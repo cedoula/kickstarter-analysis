@@ -38,7 +38,8 @@ We obtained the chart below considering all years for the analysis.
 ### Analysis of Outcomes Based on Goals
 
 We made an analysis of the outcomes of the Kickstarter campaigns based on their fundraising goals. This time we are focusing on the subcategory "plays".
-We had to create a new worksheet containing different fundraising goal amount ranges and we used the Excel function "COUNTIFS()" to populate accordingly the sheet using the following criteria: the outcome of the campaign, the fundraising goal amount and the subcategory "plays". We then were able to determine the percentage of successful, failed and canceled campaigns according to the fundraising goal range.\
+We had to create a new worksheet containing different fundraising goal amount ranges and we used the Excel function "COUNTIFS()" to populate accordingly the sheet using the following criteria: the outcome of the campaign, the fundraising goal amount and the subcategory "plays".\
+We then were able to determine the percentage of successful, failed and canceled campaigns according to the fundraising goal range.\
 The following Chart named "Outcomes Based on Goal" was produced.
 
 ![Outcomes_vs_Goals_Table](https://user-images.githubusercontent.com/68669675/88729849-69951200-d0fa-11ea-8be6-91e0800a4a59.png)![Outcomes_vs_Goals](https://user-images.githubusercontent.com/68669675/88729822-5d10b980-d0fa-11ea-84a9-49de152b2bbf.png)
