@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this project is to perform analysis with Excel on Kickstarter data to uncover trends and help our client to adjust its future campaign projects in the U.S. and Great Britain for the best results.
+The purpose of this project is to perform analysis with Excel on Kickstarter fundraising campaigns data to uncover trends and help our client to adjust its future campaign projects in the U.S. and Great Britain for the best results.
 
 ## Analysis and Challenges
 
