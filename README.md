@@ -42,7 +42,7 @@ We had to create a new worksheet containing different fundraising goal amount ra
 We then were able to determine the percentage of successful, failed and canceled campaigns according to the fundraising goal range.\
 The following Chart named "Outcomes Based on Goal" was produced.
 
-![Outcomes_vs_Goals_Table](https://user-images.githubusercontent.com/68669675/88729849-69951200-d0fa-11ea-8be6-91e0800a4a59.png)![Outcomes_vs_Goals](https://user-images.githubusercontent.com/68669675/88729822-5d10b980-d0fa-11ea-84a9-49de152b2bbf.png)
+![Outcomes_vs_Goals_Table](https://user-images.githubusercontent.com/68669675/88974030-9c1b4800-d27d-11ea-91c5-2075d3d8e8f9.png)![Outcomes_vs_Goals](https://user-images.githubusercontent.com/68669675/88729822-5d10b980-d0fa-11ea-84a9-49de152b2bbf.png)
 
 
 ### Analysis of Great Britain Musical Outcomes Based on Goals
